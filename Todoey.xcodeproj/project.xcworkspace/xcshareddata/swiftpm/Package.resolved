@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RandomColor",
+        "repositoryURL": "https://github.com/onevcat/RandomColorSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "ab01c6eff99f40c5e23ffcb957eb3971f937f106",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa.git",
+        "state": {
+          "branch": null,
+          "revision": "83a07f6a508c3427058d9e2c466208d0b6a960fa",
+          "version": "10.12.0"
+        }
+      },
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "e72b3078bfc5c3f69a0b18f7a220be27e28c463f",
+          "version": "11.2.0"
+        }
+      },
+      {
+        "package": "UIColor_Hex_Swift",
+        "repositoryURL": "https://github.com/yeahdongcn/UIColor-Hex-Swift",
+        "state": {
+          "branch": null,
+          "revision": "7043811d77df477bf0df3e3bc4269cbd44b3f1a4",
+          "version": "5.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
